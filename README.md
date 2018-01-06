@@ -2,6 +2,10 @@
 
 这个 repo 收录了在 GitHub 上的关于山东大学的工具和库。**Fork 修改并提交 PR 以添加你自己/别人的工具。**
 
+## 工具集
+
+* [山大工具箱](https://github.com/z-jack/SDUToolkits) by [z-jack](https://github.com/z-jack)
+
 ## 网站
 
 * [一键提交山东大学的评教系统](https://github.com/fiht/SDU_Pingjiao) by [fiht](https://github.com/fiht)
